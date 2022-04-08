@@ -4,21 +4,18 @@
 1º  - O teste que será desenvolvido é  para ser postado no seu GITHUB e ser apresentado no dia da sua próxima entrevista.
 
 
-2º - Ambiente de desenvolvimento,<br> 
-O editor de código pode ser o da sua escolha
-Os programas  PHP e MYSQL pode sem baixado no seguinte link https://www.apachefriends.org/download.html<br>
+2º - Ambiente de desenvolvimento<br> 
+O editor de código pode ser o da sua escolha<br>
+Os programas  PHP e MYSQL pode sem baixado no seguinte link:<br> https://www.apachefriends.org/download.html<br>
 
 
-Para ver como instala os programas, basta assistir o video  no link a seguir: https://www.youtube.com/watch?v=COepL5-bNNI&ab_channel=EstudonautaCursos
+Para ver como instala os programas, basta assistir o video  no link a seguir: <br>https://www.youtube.com/watch?v=COepL5-bNNI&ab_channel=EstudonautaCursos
       
 
+3º - O Nivel de Front-end ( parte visual ) não será fator eliminatório, porém valorizamos muito um trabalho bem feito.<br>
 
 
-3º - O Nivel de Front-end ( parte visual ) não será fator eliminatório, porém valorizamos muito um trabalho muito bem feito.<br>
-
-
-
-4º - Criar um programa que Registre, Edite e delete no banco de dados os seguinte dados  (NOME, CIDADE e EMAIL)  Parecido com os   exemplos Abaixo.
+4º - Criar um programa que Registre, Edite e delete no banco de dados os seguinte dados  (NOME, CIDADE e EMAIL), parecido com os exemplos Abaixo.
 			Lembrando, o Programa tem que Criar,Editar e Deletar e não gerar nenhum erro.
 
 Pagina de Criação
